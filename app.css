@@ -1,0 +1,15 @@
+body {
+    padding: 8px 0;
+}
+
+.container {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+pre {
+    margin: 16px;
+    padding: 8px;
+    border: 1px solid #eee;
+    background-color: #fff;
+}
