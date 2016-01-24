@@ -2,6 +2,7 @@
 This project demonstrates some of the capabilities of a Candoia app.
 
 To get started:
+
 1. `git clone` this repository to your machine.
 2. Open Candoia, and click on `install app` in the footer.
 3. Scroll to the bottom of the app list, and click the `install from local` button.
