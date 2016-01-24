@@ -11,4 +11,4 @@ To get started:
 6. Check the `Developer Mode` box.
 7. Click `install` button
 
-Now you can run the `Base App` on any repository in Candoia. When the app is ran, you'll see the developer console. If you make changes to the app, refresh the app by either closing and reopening it, or pressing `cmd+r` on OSX or `ctrl+f5` on Windows.
+Now you can run the `Base App` on any repository in Candoia. When the app is ran, you'll see the developer console. If you make changes to the app, refresh the app by either closing and reopening it, or pressing `cmd+r` on OSX or `f5` on Windows.
